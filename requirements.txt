@@ -1,0 +1,17 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning & AI
+scikit-learn
+joblib
+
+# Natural Language Processing
+nltk
+
+# Dashboard & Visualization
+streamlit
+matplotlib
+
+# Email & Network (Standard libraries usually included, but good to have)
+# imaplib and email are part of Python's standard library
